@@ -1,0 +1,17 @@
+16:04:10.424 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:04:10.443 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+16:04:13.694 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected Message..
+16:04:13.809 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected Message..
+16:04:15.167 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+16:04:15.407 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+16:04:15.878 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:04:15.880 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+16:04:45.962 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+16:04:46.119 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+16:04:46.537 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:04:46.540 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+16:22:23.648 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+16:22:23.984 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+16:22:24.391 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:22:24.394 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+16:22:25.879 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected Message..
